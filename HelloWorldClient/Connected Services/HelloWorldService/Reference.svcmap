@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="52183ac3-d58a-4817-925c-f117c2dd2ebf" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/HelloWorldService/HelloWorldService/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="HelloWorldService.wsdl" MetadataType="Wsdl" ID="ec2641e9-17a6-423c-80bf-06d9f063f986" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/HelloWorldService/HelloWorldService/?wsdl" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="a7087b36-2555-4d36-8675-0f51ed16b0ca" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/HelloWorldService/HelloWorldService/?disco" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="4087fcca-cde8-4303-b432-1a6348cd1808" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/HelloWorldService/HelloWorldService/?xsd=xsd1" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="b5a59be7-74c6-4953-b4e0-1dbf8a26801a" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/HelloWorldService/HelloWorldService/?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

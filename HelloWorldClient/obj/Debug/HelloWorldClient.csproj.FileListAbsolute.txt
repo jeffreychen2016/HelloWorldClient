@@ -1,0 +1,6 @@
+C:\Users\Jeffrey Chen\source\repos\HelloWorldClient\HelloWorldClient\bin\Debug\HelloWorldClient.exe.config
+C:\Users\Jeffrey Chen\source\repos\HelloWorldClient\HelloWorldClient\bin\Debug\HelloWorldClient.exe
+C:\Users\Jeffrey Chen\source\repos\HelloWorldClient\HelloWorldClient\bin\Debug\HelloWorldClient.pdb
+C:\Users\Jeffrey Chen\source\repos\HelloWorldClient\HelloWorldClient\obj\Debug\HelloWorldClient.csprojAssemblyReference.cache
+C:\Users\Jeffrey Chen\source\repos\HelloWorldClient\HelloWorldClient\obj\Debug\HelloWorldClient.exe
+C:\Users\Jeffrey Chen\source\repos\HelloWorldClient\HelloWorldClient\obj\Debug\HelloWorldClient.pdb
